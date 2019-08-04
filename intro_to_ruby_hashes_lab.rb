@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-grades = { Jane Doe: 10, Jim Doe: 6 }
+grades = { "Jane Doe" => 10, "Jim Doe" => 6 }
 end
 
 def pioneer
