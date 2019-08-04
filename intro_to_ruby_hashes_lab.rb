@@ -4,6 +4,7 @@ end
 
 def my_hash
   valid_hash = { :thing=> values, :stuff=> "naw" }
+  return valid_hash
 end
 
 def pioneer
