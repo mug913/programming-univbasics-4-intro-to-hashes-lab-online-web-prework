@@ -4,7 +4,8 @@ end
 
 def my_hash
   valid_hash = { :thing => values, :stuff => "naw" }
-  end
+  return valid_hash
+end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
