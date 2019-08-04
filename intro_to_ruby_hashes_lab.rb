@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  valid_hash = { thing: values, stuff: "naw"}# return a valid hash with any key/value pair of your choice
+  valid_hash = { thing: values, stuff: "naw"}
 end
 
 def pioneer
