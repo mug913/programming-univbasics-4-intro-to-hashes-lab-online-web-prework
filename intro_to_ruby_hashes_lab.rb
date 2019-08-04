@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-  valid_hash = { :thing => values, :stuff => "naw" }
-  return valid_hash
+  valid_hash = { wtf: work }
 end
 
 def pioneer
