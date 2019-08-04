@@ -3,9 +3,8 @@ def new_hash
 end
 
 def my_hash
-  valid_hash = { :thing=> values, :stuff=> "naw" }
-  return valid_hash
-end
+  valid_hash = { :thing => values, :stuff => "naw" }
+  end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
